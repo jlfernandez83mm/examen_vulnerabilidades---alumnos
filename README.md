@@ -1,4 +1,4 @@
-## About this examn
+## About this exam
 
 Include here your own findings.
 
